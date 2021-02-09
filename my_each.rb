@@ -16,6 +16,6 @@ end
 
 my_each(array) do |i|
   # binding.pry
-  puts i 
+   i 
 
 end
